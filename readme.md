@@ -10,7 +10,7 @@ This is a computer based on [Conway's Game of Life](https://en.wikipedia.org/wik
 
 ## Inspiration
 
-This project is forked from the remarkable work of Nicolas Loizeau's[nicolasloizeau/scalable-gol-computer](https://github.com/nicolasloizeau/scalable-gol-computer). The original implementation supports Assembly-based programming only. With this project, I've added an Assembly generator to make it easier to display characters and other shapes.
+This project is forked from the remarkable work of Nicolas Loizeau's [nicolasloizeau/scalable-gol-computer](https://github.com/nicolasloizeau/scalable-gol-computer). However, the original implementation supports Assembly-based programming only. With this project, I've added an Assembly generator to make it easier to display characters and other shapes.
 
 ## How to run
 
